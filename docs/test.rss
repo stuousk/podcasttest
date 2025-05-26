@@ -24,7 +24,7 @@
       <description>2번째 에피소드에 대한 설명입니다.</description>
       <itunes:duration>8</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/piano-dembow-206295.mp3" length="286720" type="audio/mpeg"/>
-      <guid>http://www.yourwebsite.com/podcast/episode1</guid>
+      <guid>http://www.yourwebsite.com/podcast/episode2</guid>
       <pubDate>Fri, 2 May 2025 09:00:00 KST</pubDate>
     </item>
 
@@ -33,7 +33,7 @@
       <description>3번째 에피소드에 대한 설명입니다.</description>
       <itunes:duration>6</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/piano-logo-152947.mp3" length="193933" type="audio/mpeg"/>
-      <guid>http://www.yourwebsite.com/podcast/episode1</guid>
+      <guid>http://www.yourwebsite.com/podcast/episode3</guid>
       <pubDate>Sat, 3 May 2025 09:00:00 KST</pubDate>
     </item>
 
@@ -42,7 +42,7 @@
       <description>4번째 에피소드에 대한 설명입니다.</description>
       <itunes:duration>8</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/piano-sequence-4-97440.mp3" length="285048" type="audio/mpeg"/>
-      <guid>http://www.yourwebsite.com/podcast/episode1</guid>
+      <guid>http://www.yourwebsite.com/podcast/episode4</guid>
       <pubDate>Sun, 4 May 2025 09:00:00 KST</pubDate>
     </item>
 
@@ -51,7 +51,7 @@
       <description>5번째 에피소드에 대한 설명입니다.</description>
       <itunes:duration>8</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/piano-sequence-42090.mp3" length="171840" type="audio/mpeg"/>
-      <guid>http://www.yourwebsite.com/podcast/episode1</guid>
+      <guid>http://www.yourwebsite.com/podcast/episode5</guid>
       <pubDate>Mon, 5 May 2025 09:00:00 KST</pubDate>
     </item>
   </channel>
