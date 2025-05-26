@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>당신의 팟캐스트 제목</title>
+    <link>http://www.yourwebsite.com/podcast</link>
+    <language>ko-kr</language>
+    <itunes:author>당신의 이름 또는 회사</itunes:author>
+    <description>당신의 팟캐스트에 대한 설명입니다.</description>
+    <itunes:image href="http://www.yourwebsite.com/podcast/image.jpg"/>
+    <itunes:category text="코미디"/>
+    <itunes:explicit>no</itunes:explicit>
+
+    <item>
+      <title>첫 번째 에피소드 제목</title>
+      <description>첫 번째 에피소드에 대한 설명입니다.</description>
+      <itunes:duration>1200</itunes:duration>
+      <enclosure url="http://www.yourwebsite.com/podcast/episode1.mp3" length="10000000" type="audio/mpeg"/>
+      <guid>http://www.yourwebsite.com/podcast/episode1</guid>
+      <pubDate>Mon, 27 May 2024 09:00:00 KST</pubDate>
+    </item>
+
+    <item>
+      <title>두 번째 에피소드 제목</title>
+      <description>두 번째 에피소드에 대한 설명입니다.</description>
+      <itunes:duration>1500</itunes:duration>
+      <enclosure url="http://www.yourwebsite.com/podcast/episode2.mp3" length="12000000" type="audio/mpeg"/>
+      <guid>http://www.yourwebsite.com/podcast/episode2</guid>
+      <pubDate>Mon, 20 May 2024 09:00:00 KST</pubDate>
+    </item>
+  </channel>
+</rss>
