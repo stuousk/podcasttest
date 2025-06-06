@@ -16,6 +16,7 @@
       <itunes:duration>15</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/intro-184995.mp3" length="505730" type="audio/mpeg"/>
       <guid>guid1</guid>
+      <itunes:image href="https://www.omnycontent.com/d/clips/53ac8cb6-b299-4f93-8280-af50012ddab0/bf128627-0214-462d-9cec-af5500694ca8/ae511173-f58c-49e2-b2fb-b2f10115c6d2/image.jpg?t=1748969590&size=Large"/>
       <pubDate>Wed, 1 May 2025 09:00:00 KST</pubDate>
     </item>
 
@@ -25,6 +26,7 @@
       <itunes:duration>13</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/jazz-logo-164941.mp3" length="443872" type="audio/mpeg"/>
       <guid>guid2</guid>
+      <itunes:image href="https://www.omnycontent.com/d/clips/53ac8cb6-b299-4f93-8280-af50012ddab0/bf128627-0214-462d-9cec-af5500694ca8/ac813a5d-4d8f-4520-80b3-b2ec01362ff3/image.jpg?t=1748544616&size=Large"/>
       <pubDate>Fri, 2 May 2025 09:00:00 KST</pubDate>
     </item>
 
@@ -34,6 +36,7 @@
       <itunes:duration>18</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/legendary-bach-badinerie-house-background-music-for-video-20-second-239469.mp3" length="601025" type="audio/mpeg"/>
       <guid>guid3</guid>
+      <itunes:image href="https://www.omnycontent.com/d/clips/53ac8cb6-b299-4f93-8280-af50012ddab0/bf128627-0214-462d-9cec-af5500694ca8/9fe48bd0-2da6-4d83-be5d-b2e300d2af3f/image.jpg?t=1747745298&size=Large"/>
       <pubDate>Sat, 3 May 2025 09:00:00 KST</pubDate>
     </item>
 
@@ -43,6 +46,7 @@
       <itunes:duration>15</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/modern-and-futuristic-beats-15s-237355.mp3" length="482304" type="audio/mpeg"/>
       <guid>guid4</guid>
+      <itunes:image href="https://www.omnycontent.com/d/clips/53ac8cb6-b299-4f93-8280-af50012ddab0/bf128627-0214-462d-9cec-af5500694ca8/dcd2bb41-4b85-428d-ba92-b2dd00fd4f4a/image.jpg?t=1747236274&size=Large"/>
       <pubDate>Sun, 4 May 2025 09:00:00 KST</pubDate>
     </item>
 
@@ -52,6 +56,7 @@
       <itunes:duration>14</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/nice-day_verse-3-loop-263108.mp3" length="475637" type="audio/mpeg"/>
       <guid>guid5</guid>
+      <itunes:image href="https://www.omnycontent.com/d/clips/53ac8cb6-b299-4f93-8280-af50012ddab0/bf128627-0214-462d-9cec-af5500694ca8/cf9553e7-f17b-4909-9332-b2d700e6627a/image.jpg?t=1746712860&size=Large"/>
       <pubDate>Mon, 5 May 2025 09:00:00 KST</pubDate>
     </item>
 
@@ -59,8 +64,9 @@
       <title>6째 에피소드 제목</title>
       <description><![CDATA[6번째 에피소드에 대한 설명입니다.]]></description>
       <itunes:duration>12</itunes:duration>
-      <enclosure url="https://stuousk.github.io/podcasttest/mp3/peaceful-podcast-intro-303768.mp3" length="389538" type="audio/mpeg"/>
+      <enclosure url="https://stuousk.github.io/podcasttest/mp3/peaceful-podcast-intro-303768.mp3" length="389538" type="audio/mpeg"/>      
       <guid>guid6</guid>
+      <itunes:image href="https://www.omnycontent.com/d/clips/53ac8cb6-b299-4f93-8280-af50012ddab0/bf128627-0214-462d-9cec-af5500694ca8/0602eedf-4071-4b60-96a3-b2d000890419/image.jpg?t=1746087607&size=Large"/>
       <pubDate>Tue, 6 May 2025 09:00:00 KST</pubDate>
     </item>
 
@@ -70,6 +76,7 @@
       <itunes:duration>13</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/youtube-intro-291172.mp3" length="475423936637" type="audio/mpeg"/>
       <guid>guid7</guid>
+      <itunes:image href="https://www.omnycontent.com/d/clips/53ac8cb6-b299-4f93-8280-af50012ddab0/bf128627-0214-462d-9cec-af5500694ca8/48aa1d8c-0495-4271-a8c3-b2c90083d8ad/image.jpg?t=1745481667&size=Large"/>
       <pubDate>Tue, 6 May 2025 09:00:00 KST</pubDate>
     </item>
   </channel>
