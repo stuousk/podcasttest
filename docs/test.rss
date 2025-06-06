@@ -5,14 +5,14 @@
     <link>http://www.yourwebsite.com/podcast</link>
     <language>ko-kr</language>
     <itunes:author>당신의 이름 또는 회사</itunes:author>
-    <description>당신의 팟캐스트에 대한 설명입니다.</description>
+    <description><![CDATA[당신의 팟캐스트에 대한 설명입니다.]]></description>
     <itunes:image href="https://stuousk.github.io/podcasttest/ice-cream-308619.svg"/>
     <itunes:category text="코미디"/>
     <itunes:explicit>no</itunes:explicit>
 
     <item>
       <title>첫 번째 에피소드 제목</title>
-      <description>첫 번째 에피소드에 대한 설명입니다.</description>
+      <description><![CDATA[첫 번째 에피소드에 대한 설명입니다.]]></description>
       <itunes:duration>15</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/intro-184995.mp3" length="505730" type="audio/mpeg"/>
       <guid>guid1</guid>
@@ -21,7 +21,7 @@
 
     <item>
       <title>2번째 에피소드 제목</title>
-      <description>2번째 에피소드에 대한 설명입니다.</description>
+      <description><![CDATA[2번째 에피소드에 대한 설명입니다.]]></description>
       <itunes:duration>13</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/jazz-logo-164941.mp3" length="443872" type="audio/mpeg"/>
       <guid>guid2</guid>
@@ -30,7 +30,7 @@
 
     <item>
       <title>3번째 에피소드 제목</title>
-      <description>3번째 에피소드에 대한 설명입니다.</description>
+      <description><![CDATA[3번째 에피소드에 대한 설명입니다.]]></description>
       <itunes:duration>18</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/legendary-bach-badinerie-house-background-music-for-video-20-second-239469.mp3" length="601025" type="audio/mpeg"/>
       <guid>guid3</guid>
@@ -39,7 +39,7 @@
 
     <item>
       <title>4번째 에피소드 제목</title>
-      <description>4번째 에피소드에 대한 설명입니다.</description>
+      <description><![CDATA[4번째 에피소드에 대한 설명입니다.]]></description>
       <itunes:duration>15</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/modern-and-futuristic-beats-15s-237355.mp3" length="482304" type="audio/mpeg"/>
       <guid>guid4</guid>
@@ -48,7 +48,7 @@
 
     <item>
       <title>5째 에피소드 제목</title>
-      <description>5번째 에피소드에 대한 설명입니다.</description>
+      <description><![CDATA[5번째 에피소드에 대한 설명입니다.]]></description>
       <itunes:duration>14</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/nice-day_verse-3-loop-263108.mp3" length="475637" type="audio/mpeg"/>
       <guid>guid5</guid>
@@ -57,7 +57,7 @@
 
     <item>
       <title>6째 에피소드 제목</title>
-      <description>6번째 에피소드에 대한 설명입니다.</description>
+      <description><![CDATA[6번째 에피소드에 대한 설명입니다.]]></description>
       <itunes:duration>12</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/peaceful-podcast-intro-303768.mp3" length="389538" type="audio/mpeg"/>
       <guid>guid6</guid>
@@ -66,7 +66,7 @@
 
     <item>
       <title>7째 에피소드 제목</title>
-      <description>7번째 에피소드에 대한 설명입니다.</description>
+      <description><![CDATA[7번째 에피소드에 대한 설명입니다.]]></description>
       <itunes:duration>13</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/youtube-intro-291172.mp3" length="475423936637" type="audio/mpeg"/>
       <guid>guid7</guid>
