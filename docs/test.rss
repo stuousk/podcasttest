@@ -12,47 +12,65 @@
 
     <item>
       <title>첫 번째 에피소드 제목</title>
-      <description><![CDATA[1 번째 에피소드에 대한 설명입니다.]]></description>
-      <itunes:duration>6</itunes:duration>
-      <enclosure url="https://stuousk.github.io/podcasttest/mp3/piano-chord-97902.mp3" length="214831" type="audio/mpeg"/>
+      <description>첫 번째 에피소드에 대한 설명입니다.</description>
+      <itunes:duration>15</itunes:duration>
+      <enclosure url="https://stuousk.github.io/podcasttest/mp3/intro-184995.mp3" length="505730" type="audio/mpeg"/>
       <guid>guid1</guid>
       <pubDate>Wed, 1 May 2025 09:00:00 KST</pubDate>
     </item>
 
     <item>
       <title>2번째 에피소드 제목</title>
-      <description><![CDATA[2번째 에피소드에 대한 설명입니다.]]></description>
-      <itunes:duration>8</itunes:duration>
-      <enclosure url="https://stuousk.github.io/podcasttest/mp3/piano-dembow-206295.mp3" length="286720" type="audio/mpeg"/>
+      <description>2번째 에피소드에 대한 설명입니다.</description>
+      <itunes:duration>13</itunes:duration>
+      <enclosure url="https://stuousk.github.io/podcasttest/mp3/jazz-logo-164941.mp3" length="443872" type="audio/mpeg"/>
       <guid>guid2</guid>
       <pubDate>Fri, 2 May 2025 09:00:00 KST</pubDate>
     </item>
 
     <item>
       <title>3번째 에피소드 제목</title>
-      <description><![CDATA[3번째 에피소드에 대한 설명입니다.]]></description>
-      <itunes:duration>6</itunes:duration>
-      <enclosure url="https://stuousk.github.io/podcasttest/mp3/piano-logo-152947.mp3" length="193933" type="audio/mpeg"/>
+      <description>3번째 에피소드에 대한 설명입니다.</description>
+      <itunes:duration>18</itunes:duration>
+      <enclosure url="https://stuousk.github.io/podcasttest/mp3/legendary-bach-badinerie-house-background-music-for-video-20-second-239469.mp3" length="601025" type="audio/mpeg"/>
       <guid>guid3</guid>
       <pubDate>Sat, 3 May 2025 09:00:00 KST</pubDate>
     </item>
 
     <item>
       <title>4번째 에피소드 제목</title>
-      <description><![CDATA[4번째 에피소드에 대한 설명입니다.]]></description>
-      <itunes:duration>8</itunes:duration>
-      <enclosure url="https://stuousk.github.io/podcasttest/mp3/piano-sequence-4-97440.mp3" length="285048" type="audio/mpeg"/>
+      <description>4번째 에피소드에 대한 설명입니다.</description>
+      <itunes:duration>15</itunes:duration>
+      <enclosure url="https://stuousk.github.io/podcasttest/mp3/modern-and-futuristic-beats-15s-237355.mp3" length="482304" type="audio/mpeg"/>
       <guid>guid4</guid>
       <pubDate>Sun, 4 May 2025 09:00:00 KST</pubDate>
     </item>
 
     <item>
       <title>5째 에피소드 제목</title>
-      <description><![CDATA[5번째 에피소드에 대한 설명입니다.]]></description>
-      <itunes:duration>8</itunes:duration>
-      <enclosure url="https://stuousk.github.io/podcasttest/mp3/piano-sequence-42090.mp3" length="171840" type="audio/mpeg"/>
+      <description>5번째 에피소드에 대한 설명입니다.</description>
+      <itunes:duration>14</itunes:duration>
+      <enclosure url="https://stuousk.github.io/podcasttest/mp3/nice-day_verse-3-loop-263108.mp3" length="475637" type="audio/mpeg"/>
       <guid>guid5</guid>
       <pubDate>Mon, 5 May 2025 09:00:00 KST</pubDate>
+    </item>
+
+    <item>
+      <title>6째 에피소드 제목</title>
+      <description>6번째 에피소드에 대한 설명입니다.</description>
+      <itunes:duration>12</itunes:duration>
+      <enclosure url="https://stuousk.github.io/podcasttest/mp3/peaceful-podcast-intro-303768.mp3" length="389538" type="audio/mpeg"/>
+      <guid>guid6</guid>
+      <pubDate>Tue, 6 May 2025 09:00:00 KST</pubDate>
+    </item>
+
+    <item>
+      <title>7째 에피소드 제목</title>
+      <description>7번째 에피소드에 대한 설명입니다.</description>
+      <itunes:duration>13</itunes:duration>
+      <enclosure url="https://stuousk.github.io/podcasttest/mp3/youtube-intro-291172.mp3" length="475423936637" type="audio/mpeg"/>
+      <guid>guid7</guid>
+      <pubDate>Tue, 6 May 2025 09:00:00 KST</pubDate>
     </item>
   </channel>
 </rss>
