@@ -12,7 +12,7 @@
 
     <item>
       <title>첫 번째 에피소드 제목</title>
-      <description>첫 번째 에피소드에 대한 설명입니다.</description>
+      <description><![CDATA[1 번째 에피소드에 대한 설명입니다.]]></description>
       <itunes:duration>6</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/piano-chord-97902.mp3" length="214831" type="audio/mpeg"/>
       <guid>guid1</guid>
@@ -21,7 +21,7 @@
 
     <item>
       <title>2번째 에피소드 제목</title>
-      <description>2번째 에피소드에 대한 설명입니다.</description>
+      <description><![CDATA[2번째 에피소드에 대한 설명입니다.]]></description>
       <itunes:duration>8</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/piano-dembow-206295.mp3" length="286720" type="audio/mpeg"/>
       <guid>guid2</guid>
@@ -30,7 +30,7 @@
 
     <item>
       <title>3번째 에피소드 제목</title>
-      <description>3번째 에피소드에 대한 설명입니다.</description>
+      <description><![CDATA[3번째 에피소드에 대한 설명입니다.]]></description>
       <itunes:duration>6</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/piano-logo-152947.mp3" length="193933" type="audio/mpeg"/>
       <guid>guid3</guid>
@@ -39,7 +39,7 @@
 
     <item>
       <title>4번째 에피소드 제목</title>
-      <description>4번째 에피소드에 대한 설명입니다.</description>
+      <description><![CDATA[4번째 에피소드에 대한 설명입니다.]]></description>
       <itunes:duration>8</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/piano-sequence-4-97440.mp3" length="285048" type="audio/mpeg"/>
       <guid>guid4</guid>
@@ -48,7 +48,7 @@
 
     <item>
       <title>5째 에피소드 제목</title>
-      <description>5번째 에피소드에 대한 설명입니다.</description>
+      <description><![CDATA[5번째 에피소드에 대한 설명입니다.]]></description>
       <itunes:duration>8</itunes:duration>
       <enclosure url="https://stuousk.github.io/podcasttest/mp3/piano-sequence-42090.mp3" length="171840" type="audio/mpeg"/>
       <guid>guid5</guid>
